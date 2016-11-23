@@ -10,7 +10,7 @@
 
 3. **Removing the render blocking css.** The `print.css` was render blocking. I labelled it as `media="print"` and it no more blocked the rendering of the index.html. :)
 
-4. The size of the images were also putting on the loading time. They have been altered using `Grunt.js`.
+4. The size of the images were also putting strain on the loading time. They have been altered using `Grunt.js`.
 
 5. Changes have been made in the `main.js` inside the `view` folder. This has removed the janky animations.
 
