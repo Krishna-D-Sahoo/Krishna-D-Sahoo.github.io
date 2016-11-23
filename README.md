@@ -8,9 +8,11 @@
 
 2. Another way to optimize the index.html page was to inline the css that were present in the style.css file. Well, the file exists but we have delinked the style.css from the index.html file. This is the best option because the images and the design are pretty much static. So it was safe to inline the css in the index.html file.
 
-3. **Remove the render blocking css.** The `print.css` was render blocking. I labelled it as `media="print"` and it no more blocked the rendering of the index.html. :)
+3. **Removing the render blocking css.** The `print.css` was render blocking. I labelled it as `media="print"` and it no more blocked the rendering of the index.html. :)
 
-4. Changes have been made in the `main.js` inside the `view` folder. This has removed the janky animations.
+4. The size of the images were also putting on the loading time. They have been altered using `Grunt.js`.
+
+5. Changes have been made in the `main.js` inside the `view` folder. This has removed the janky animations.
 
 
 
