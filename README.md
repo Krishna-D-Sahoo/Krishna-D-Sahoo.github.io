@@ -15,5 +15,6 @@
 5. Changes have been made in the `main.js` inside the `view` folder. This has removed the janky animations.
 
 
+URL for evaluating the page on PageSpeed Insights - https://krishna-d-sahoo.github.io/
 
 To see the initial structure of the whole project go to this [link](https://github.com/udacity/frontend-nanodegree-mobile-portfolio). 
