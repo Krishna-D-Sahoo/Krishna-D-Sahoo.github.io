@@ -14,6 +14,8 @@
 
 5. Changes have been made in the `main.js` inside the `view` folder. This has removed the janky animations.
 
+6. You can download the repo to your local system. To review the `pizza.html` in view folder, open the html file in your browser (Chrome is the most preferable) and check the console in the time line. You can see - the time to generate pizzas, average scripting time to generate last 10 frames, and average time to resize pizzas when slider is used.
+
 
 URL for evaluating the page on PageSpeed Insights - https://krishna-d-sahoo.github.io/
 
